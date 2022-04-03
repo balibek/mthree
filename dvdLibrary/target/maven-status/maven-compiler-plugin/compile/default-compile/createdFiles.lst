@@ -1,0 +1,6 @@
+com/balibek/dvdlibrary/dao/DvdLibraryDao.class
+com/balibek/dvdlibrary/controller/DvdLibraryController.class
+com/balibek/dvdlibrary/ui/UserIo.class
+com/balibek/dvdlibrary/ui/DvdLibraryView.class
+com/balibek/dvdlibrary/ui/UserIoConsoleImpl.class
+com/balibek/dvdlibrary/dto/Dvd.class
