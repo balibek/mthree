@@ -1,0 +1,5 @@
+OrderNumber;CustomerName;State;TaxRate;ProductType;Area;CostPerSquareFoot;LaborCostPerSquareFoot;MaterialCost;LaborCost;Tax;Total
+1;John Black;WA;9.25;Wood;190.00;5.15;4.75;978.50;902.50;169.29;2050.29
+2;Ada Pop;WA;9.25;Tile;100.00;3.50;4.15;350.00;415.00;68.85;833.85
+3;Hoo;CA;25.00;Carpet;200.00;2.25;2.10;450.00;420.00;217.50;1087.50
+4;George;TX;4.45;Carpet;230.00;2.25;2.10;517.50;483.00;40.02;1040.52
