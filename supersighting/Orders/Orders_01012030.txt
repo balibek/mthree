@@ -1,0 +1,3 @@
+OrderNumber;CustomerName;State;TaxRate;ProductType;Area;CostPerSquareFoot;LaborCostPerSquareFoot;MaterialCost;LaborCost;Tax;Total
+1;Acme, Inc.;CA;25.00;Wood;100.00;5.15;4.75;515.00;475.00;247.50;1237.50
+2;Name, INC. 123;TX;4.45;Wood;1000.90;5.15;4.75;5154.64;4754.28;396.36;10305.28

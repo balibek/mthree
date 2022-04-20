@@ -1,0 +1,3 @@
+OrderNumber;CustomerName;State;TaxRate;ProductType;Area;CostPerSquareFoot;LaborCostPerSquareFoot;MaterialCost;LaborCost;Tax;Total
+1;gf;CA;25.00;Wood;102.00;5.15;4.75;525.30;484.50;252.45;1262.25
+2;Acme, Inc.;WA;9.25;Tile;233.00;3.50;4.15;815.50;966.95;160.42;1942.87

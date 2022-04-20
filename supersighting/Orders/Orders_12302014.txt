@@ -1,0 +1,4 @@
+OrderNumber;CustomerName;State;TaxRate;ProductType;Area;CostPerSquareFoot;LaborCostPerSquareFoot;MaterialCost;LaborCost;Tax;Total
+5;Albert Einstein;KY;6.00;Carpet;217.00;2.25;2.10;488.25;455.70;56.64;1000.59
+6;Albert Einstein;KY;6.00;Carpet;217.00;2.25;2.10;488.25;455.70;56.64;1000.59
+7;Albert Einstein;KY;6.00;Carpet;217.00;2.25;2.10;488.25;455.70;56.64;1000.59
